@@ -2,7 +2,7 @@
 
 - 👋 Tentando virar um Desenvolvedor Back-end
 - 👀 Estou atualmente cursando: Engenharia de Software
-- 🤓 Estou atualmente estudando: PYTHON,PHP, C/C++ E JAVA
+- 🤓 Estou atualmente estudando: C++/C#, JAVA, SpringBoot e SQL.
 
   <picture>
   <source
