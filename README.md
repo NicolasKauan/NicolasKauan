@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nicolas Kauan, Seja bem vindo!
 
-- 👋 Tentando virar um Desenvolvedor Back-end
+- 👋 Desenvolvedor Back-end
 - 👀 Estou atualmente cursando: Engenharia de Software
 - 🤓 Linguagens: C++/C#, JAVA, SpringBoot e SQL.
 
